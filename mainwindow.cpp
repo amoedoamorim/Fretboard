@@ -3,7 +3,7 @@
 
 #include "mainwindow.h"
 
-#define VERSION_STRING "Fretboard 0.0.2a"
+#define VERSION_STRING "Fretboard 0.0.3a"
 
 MainWindow::MainWindow()
 {

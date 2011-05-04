@@ -1,6 +1,6 @@
 #include "fretboard.h"
 #include "chord.h"
-#include "beatselector.h"
+//#include "beatselector.h"
 #include <math.h>
 #include <QDebug>
 #include <QMouseEvent>
